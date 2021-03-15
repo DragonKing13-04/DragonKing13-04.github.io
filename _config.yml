@@ -4,3 +4,5 @@ description: [Just a test]
 
 github:
   is_project_page: false
+
+theme: jekyll-theme-architect
